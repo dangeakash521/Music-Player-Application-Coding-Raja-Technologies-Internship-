@@ -1,1 +1,4 @@
-# Music-Player-Application-Coding-Raja-Technologies-Internship-
+# music-player
+
+Simple Music Player Created Using JavaScript
+
